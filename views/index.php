@@ -26,6 +26,7 @@
 </form>
 
 <p class="text-center mt-3 small"><a href="../views/register.php">Create Account</a></p>
+<p>test a modified file</p>
       </div>
     </div>
   </div>
